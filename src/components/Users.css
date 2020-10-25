@@ -1,0 +1,31 @@
+.Product{
+    padding:10px;
+    
+    background-color: rgba(255, 255, 255, 0.938);
+    border:1px solid rgba(0, 0, 0, 0.959);
+    margin:5%;
+   
+}
+.productContainer{
+    margin-left:15%;
+    margin-right:15%;
+    margin-bottom:10px;
+    display:grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.POST{
+    background-color:rgba(201, 80, 80, 0.61);
+    padding:2%;
+    margin:5%;
+    color:rgb(241, 241, 241);
+}
+.Product button{
+    margin:2%;
+    outline: none;
+    border-style: none;
+    width:70px;
+    height:60px;
+    background-color: black;
+    color:white;
+    border-radius:10px;
+}
