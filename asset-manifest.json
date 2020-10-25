@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shivamjadhav-ReactApp-/static/css/main.cf1c70b4.chunk.css",
+    "main.js": "/shivamjadhav-ReactApp-/static/js/main.593ff964.chunk.js",
+    "main.js.map": "/shivamjadhav-ReactApp-/static/js/main.593ff964.chunk.js.map",
+    "runtime-main.js": "/shivamjadhav-ReactApp-/static/js/runtime-main.305dcaed.js",
+    "runtime-main.js.map": "/shivamjadhav-ReactApp-/static/js/runtime-main.305dcaed.js.map",
+    "static/js/2.8bdb0e01.chunk.js": "/shivamjadhav-ReactApp-/static/js/2.8bdb0e01.chunk.js",
+    "static/js/2.8bdb0e01.chunk.js.map": "/shivamjadhav-ReactApp-/static/js/2.8bdb0e01.chunk.js.map",
+    "static/js/3.596c01a5.chunk.js": "/shivamjadhav-ReactApp-/static/js/3.596c01a5.chunk.js",
+    "static/js/3.596c01a5.chunk.js.map": "/shivamjadhav-ReactApp-/static/js/3.596c01a5.chunk.js.map",
+    "index.html": "/shivamjadhav-ReactApp-/index.html",
+    "static/css/main.cf1c70b4.chunk.css.map": "/shivamjadhav-ReactApp-/static/css/main.cf1c70b4.chunk.css.map",
+    "static/js/2.8bdb0e01.chunk.js.LICENSE.txt": "/shivamjadhav-ReactApp-/static/js/2.8bdb0e01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.305dcaed.js",
+    "static/js/2.8bdb0e01.chunk.js",
+    "static/css/main.cf1c70b4.chunk.css",
+    "static/js/main.593ff964.chunk.js"
+  ]
+}
